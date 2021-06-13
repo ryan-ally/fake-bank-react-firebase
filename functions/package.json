@@ -32,7 +32,7 @@
     "@types/helmet": "0.0.44",
     "@types/long": "^4.0.0",
     "@types/morgan": "^1.7.37",
-    "@types/node": "^12.11.6",
+    "@types/node": "^12.20.13",
     "@types/winston": "^2.4.4",
     "rimraf": "^3.0.0",
     "tslint": "^5.12.0",
